@@ -1,2 +1,20 @@
-﻿  Source.c
-  Projeto_F1_JoãoRego.vcxproj -> C:\Users\Zaku\Desktop\IPCA\Estruturas de Dados Avançadas\Projeto_F1_JoãoRego\x64\Debug\Projeto_F1_JoãoRego.exe
+﻿  Cliente.c
+  Main.c
+  Veiculos.c
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(26,110): warning C4029: declared formal parameter list different from definition
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(60,18): warning C4133: '=': incompatible types - from 'Veiculos *' to 'VeiculosListaPtr'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(77,31): warning C4047: 'return': 'VeiculosListaPtr' differs in levels of indirection from 'int'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(81,7): warning C4013: 'InsereNodoLista' undefined; assuming extern returning int
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(81,31): warning C4047: '=': 'VeiculosListaPtr' differs in levels of indirection from 'int'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(111,33): error C2039: 'n': is not a member of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.h(36): message : see declaration of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(112,20): warning C4133: '=': incompatible types - from 'VeiculosListaPtr' to 'Veiculos *'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(113,15): warning C4133: '=': incompatible types - from 'Veiculos *' to 'VeiculosListaPtr'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(119,35): error C2039: 'n': is not a member of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.h(36): message : see declaration of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(119,51): error C2039: 'n': is not a member of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.h(36): message : see declaration of 'VeiculosLista'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(121,32): warning C4133: '=': incompatible types - from 'Veiculos *' to 'VeiculosListaPtr'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(123,25): warning C4133: '=': incompatible types - from 'VeiculosListaPtr' to 'Veiculos *'
+W:\IPCA\1_Ano\2_Semestre\Estruturas_de_Dados_Avançadas\Projeto_EDA_EDJD\Projeto_F1_JoãoRego\Veiculos.c(124,24): warning C4133: '=': incompatible types - from 'VeiculosListaPtr' to 'Veiculos *'
+  Generating Code...
